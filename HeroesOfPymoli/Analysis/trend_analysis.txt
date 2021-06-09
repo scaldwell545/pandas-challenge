@@ -14,4 +14,15 @@
 	person, respectively, are 35-39 years old with $4.76 per person
 	and sub-10 years old with $4.54 per person.
 
--- The most profitable
+-- The most profitable and most popular item purchased by users was
+	'Final Critic' with 13 purchases for $59.99. Two other items
+	were among both the top 5 most popular items as well as the 
+	top 5 most profitable items- 'Oathbreaker, Last Hope of the
+	Breaking Storm' was second on metrics with 12 purchases for
+	$50.79, and 'Fiery Glass Crusader' was the third most popular
+	purchase with 9 purchases for $44.10, ranking fourth on the
+	list of most profitable items. Two items ('Persuasion' and 
+	'Extraction, Quickblade of Trembling Hands') were among
+	the most popular items but were not nearly as profitable as
+	the other items on the list mentioned earlier, indicating that
+	they might warrant a price increase.
