@@ -1,0 +1,17 @@
+3 Observable Trends
+
+-- Men make up the vast majority of users (84.03%) compared to female
+	and other-gendered users. However, men as a group spend
+	less than other gender groups on average total purchase
+	per person with $4.07 per purchase compared to $4.47 and
+	$4.56 per purchase for women and other-gendered users,
+	respectively.
+
+-- The age group distribution is unimodal and is centered around the
+	age group of 20-24 years old. This age group has the third 
+	highest average total purchase per person with $4.32. The two
+	groups with the first and second highest average purchase per 
+	person, respectively, are 35-39 years old with $4.76 per person
+	and sub-10 years old with $4.54 per person.
+
+-- The most profitable
